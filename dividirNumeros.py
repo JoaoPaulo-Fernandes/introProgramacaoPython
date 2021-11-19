@@ -16,4 +16,8 @@ print('-----------------')
 # Divisão com valor inteiro. Utiliza-se duas (//).
 print(8//4)
 
+# Divisão com resto. Utiliza-se o símbolo de porcentagem (%).
+print(10%3)
+print(16%7)
+
 
