@@ -5,7 +5,7 @@ print(2+3)
 
 print("--------------------------------")
 
-# Forma um pouco mais elaborada. Utilizando variáveis. (Onde lêr-se "a" recebe 2, "b" recebe 3 e "soma" recebe a + b)
+# Forma um pouco mais elaborada. Utilizando variáveis. (Lêr-se "a" recebe 2, "b" recebe 3 e "soma" recebe a + b)
 a = 2
 b = 3
 soma = a + b
