@@ -6,3 +6,9 @@ reprovado = False
 
 print(resultado)
 print(reprovado)
+
+nota = 7
+print(nota >= 7) # Pergunta se "nota" é igual ou maior a "7".
+
+nota = 5
+print(nota != 5) # Pergunta se "nota" é diferente de "5".
