@@ -3,7 +3,7 @@
 num1 = int(input("Digite o primeiro número: "))
 num2 = int(input("Digite o segundo número: "))
 num3 = int(input("Digite o terceiro número: "))
-print("====================================================")
+print("=================================================")
 if num1 > num2 and num1 > num3:  # Compara se o primeiro número é maior que o segundo e terceiro número
     print(f"O primeiro número é o maior de todos: {num1}")
 if num2 > num3 and num2 > num1: # Compara se o segundo número é maior que o terceiro e primeiro número
